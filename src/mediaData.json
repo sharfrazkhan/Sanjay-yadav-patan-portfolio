@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "News Title 1",
+    "description": "Short description or date 1",
+    "image": "/MediaImages/1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "News Title 2",
+    "description": "Short description or date 2",
+    "image": "/MediaImages/2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "News Title 3",
+    "description": "Short description or date 3",
+    "image": "/MediaImages/3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "News Title 4",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/4.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "News Title 5",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/5.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "News Title 6",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/6.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "News Title 7",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/7.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "News Title 8",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/8.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "News Title 9",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/9.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "News Title 10",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/10.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "News Title 11",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/11.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "News Title 12",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/12.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "News Title 13",
+    "description": "Short description or date 4",
+    "image": "/MediaImages/13.jpeg"
+  }
+]
